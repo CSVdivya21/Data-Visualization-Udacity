@@ -5,8 +5,7 @@ This is the repository for my final project for the Data Visualization with D3.j
 ## Tools
 
  1. D3.js
- 2. Bl.ocks.org
- 3. Dimple.js
+ 2. Dimple.js
 
 ## Design
 
@@ -19,3 +18,6 @@ This visualization is an animation that shows that people in most countries incr
 ### Rich vs Poor Countries
 
 From the chart, it is apparent that in general the richest countries have the highest daily consumption, as well as the highest BMI, and a careful eye may discern that the richest countries have increased their consumption the most over the 18 years.  In comparison, the poorest countries, especially those in Sub-Saharan Africa, appear to still be struggling with food supply, and may be getting left behind as the richer countries become more and more overweight. 
+
+A screenshot of the final visualization is below:
+![final_viz](final_viz.org)
